@@ -1,0 +1,6 @@
+{
+  "name": "Folder and JPEG File Bucketer",
+  "description": "High-performance test data generator and algorithmic bucketing tool for 500+ archive folders and 50,000+ scanned JPEG files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
